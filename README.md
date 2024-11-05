@@ -1,6 +1,6 @@
 # Project Name : DOF1.0 -  Empowering Datasets with Language Modeling 
 ###  Study Name  : Exploring the landscape for generative models for specialized data generation
-The project focuses on creating a generative AI model to generate realistic flow-based network traffic for improving network-based intrusion detection systems. By leveraging language modeling techniques, this project aims to overcome the limitations of traditional methods and generate high-dimensional datasets that are difficult to collect. The model was trained on 30,000 packets of network traffic
+The project focuses on creating a generative AI model to generate realistic flow-based network traffic for improving network-based intrusion detection systems. By leveraging language modeling techniques, this project aims to overcome the limitations of traditional methods and generate high-dimensional datasets that are difficult to collect. The model was trained on 30,000 packets of network traffic.
 ## Repository Structure
 
 ```plaintext
